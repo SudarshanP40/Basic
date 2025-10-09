@@ -4,18 +4,18 @@ Basic file for testing.
 Author - Sudarshan Patil
 <br>
 <h1>Hello World!</h1>
-<table>
-  <tr>
+<table> <!-- Table one -->
+  <tr> <!-- Row one -->
     <td>
       One
       </td> <!-- One -->
-    <td>
+    <td> <!-- Two -->
       Two
     </td>
-    <td>
+    <td> <!-- Three -->
       Three
     </td>
-    <td>
+    <td> <!-- Four -->
       Four
     </td>
   </tr>
